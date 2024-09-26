@@ -24,6 +24,11 @@ settings:
   nb_rows: 3
   default: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo!"
 
+- label: "Custom Vue Component"
+  id: custom_vue_component
+  type: enhanced_text
+  default: ""
+
 - label: "Body"
   id: body
   type: text

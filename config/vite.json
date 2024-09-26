@@ -1,0 +1,17 @@
+{
+  "all": {
+    "sourceCodeDir": "tmp/src-merged",
+    "watchAdditionalPaths": ["app/frontend/**/*"],
+    "publicOutputDir": "maglev-assets"
+  },
+  "development": {
+    "autoBuild": true,
+    "publicOutputDir": "maglev-assets-dev",
+    "port": 3136
+  },
+  "test": {
+    "autoBuild": true,
+    "publicOutputDir": "maglev-assets-test",
+    "port": 3137
+  }
+}

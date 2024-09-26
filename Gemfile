@@ -47,6 +47,8 @@ gem "bootsnap", require: false
 gem 'maglevcms', '~> 1.7.3'
 gem 'maglevcms-hyperui-kit', '~> 1.2.0'
 
+gem 'vite_rails'
+
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
